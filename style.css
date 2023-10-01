@@ -1,12 +1,12 @@
-h1 {
-    color: red;
-}
-
-div {
+p {
     font-size: 30px;
     color: white;
+    border: 5px solid white;
+    width: fit-content;
+    padding: 20ox;
+    margin: 0 auto;
 }
 
 body {
-    background-color: yellowgreen;
+    background-color: black;
 }
